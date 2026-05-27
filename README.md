@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Banoth Mahesh Kumar</h1>
+<h1 align="center">Hello , I'm Banoth Mahesh Kumar</h1>
 <h3 align="center">QA Automation Engineer | SDET Fresher | Selenium · Java · TestNG · CI/CD</h3>
 
 <p align="center">
@@ -35,7 +35,6 @@
 
 **CI/CD & Tools**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,13 +46,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahesh001-sys&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh001-sys&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh001-sys&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -71,8 +66,6 @@
 
 - 🌐 Cisco — Network Technician Career Path
 - 🤖 Automation Anywhere — RPA Developer
-- 🪟 Microsoft Certified
-- 💼 LinkedIn Learning — QA & Testing Track
 
 ---
 
@@ -82,7 +75,7 @@
   <a href="https://linkedin.com/in/banoth-mahesh-kumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:maheshbanoth057@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://mahesh001-sys.github.io/portfolio" target="_blank">
