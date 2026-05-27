@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Banoth Mahesh Kumar</h1>
+<h1 align="center">Hi👋, I'm Banoth Mahesh Kumar</h1>
 <h3 align="center">QA Automation Engineer | SDET Fresher | Selenium · Java · TestNG · CI/CD</h3>
 
 <p align="center">
