@@ -111,7 +111,7 @@ A reusable Selenium automation framework developed using **Java, Selenium WebDri
 **Tech:** `Java` `Selenium` `TestNG` `Maven` `POM` `Page Factory` `Apache POI` `ExtentReports`
 
 <p>
-<a href="https://github.com/mahesh001-sys/TEST-AutoMATEs">
+<a href="https://github.com/mahesh001-sys/selenium-automation-framework">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
